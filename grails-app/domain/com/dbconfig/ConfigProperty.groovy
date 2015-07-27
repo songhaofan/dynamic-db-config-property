@@ -1,6 +1,6 @@
 package com.dbconfig
 
-import org.codehaus.groovy.grails.commons.ConfigurationHolder as CH
+import grails.util.Holders as CH
 import org.codehaus.groovy.runtime.DefaultGroovyMethods
 
 
